@@ -1,0 +1,6 @@
+{
+  "name": "axil_ram",
+  "top": "axil_ram",
+  "spec": "spec.md",
+  "rtl": ["rtl/axil_ram.v"]
+}
