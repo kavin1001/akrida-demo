@@ -1,4 +1,5 @@
 // axil_ram: AXI4-Lite single-port RAM
+// Defaults: 32-bit data, 16-bit byte address, no output pipeline
 /*
 
 Copyright (c) 2018 Alex Forencich
