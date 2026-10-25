@@ -1,3 +1,4 @@
+// axil_ram: AXI4-Lite single-port RAM
 /*
 
 Copyright (c) 2018 Alex Forencich
